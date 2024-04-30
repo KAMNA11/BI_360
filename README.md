@@ -30,8 +30,8 @@ Enable quick insights for business across various markets and departments, and d
 * Implementing modifications according to Stakeholders and Project Manager needs and demands
 
 ## Project Outcome
-5 interactive and comprehensive dashboards giving insights about business
-To empower AtliQ Hardware to not just compete but to lead their industry
-Optimised report with DAX Studio, resulting in 5% performance boost and 20% data-related expense reduction
+* 5 interactive and comprehensive dashboards giving insights about business
+* To empower AtliQ Hardware to not just compete but to lead their industry
+* Optimised report with DAX Studio, resulting in 5% performance boost and 20% data-related expense reduction
 
 
