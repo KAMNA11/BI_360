@@ -9,14 +9,29 @@ Enable quick insights for business across various markets and departments, and d
 
 ## Overview of the Dashboard:
 
-💼 Finance View: - Delve deep into P&L, Net Sales trends, and identify top-performing products and customers.
+💼 Finance View: - Delve deep into P&L, Net Sales trends, and identify top-performing products and customers
 
-🎯 Sales View: - Analyze customer and product performances, Net Sales, Gross Margin, alongside COGS, and deductions.
+🎯 Sales View: - Analyze customer and product performances, Net Sales, Gross Margin, alongside COGS, and deductions
 
-🌍 Marketing View: - Evaluate GM% and NP% performance across segments, operational expenses, and NP.
+🌍 Marketing View: - Evaluate GM% and NP% performance across segments, operational expenses, and NP
 
-📦 Supply Chain View: - Explore Forecast Accuracy, Net Error, ABS Error, with key metrics by customer and product.
+📦 Supply Chain View: - Explore Forecast Accuracy, Net Error, ABS Error, with key metrics by customer and product
 
-🌐 Executive View: - Gain strategic insights into Market Share trends, top 5 customers/products, and revenue trends.
+🌐 Executive View: - Gain strategic insights into Market Share trends, top 5 customers/products, and revenue trends
+
+## Project Learnings
+* Importing/ Extracting Data from MySQL Database and Excel
+* Data Cleaning and Transformation using Power Query
+* Using DAX Formulas for creating calculated columns and measures
+* Data Validation
+* Implementing various types of visuals like Charts, Metrices, Tables, KPIs, Slicers and more
+* Implementing tooltip tips in the visuals
+* Posting the project on Power BI Service platform
+* Implementing modifications according to Stakeholders and Project Manager needs and demands
+
+## Project Outcome
+5 interactive and comprehensive dashboards giving insights about business
+To empower AtliQ Hardware to not just compete but to lead their industry
+Optimised report with DAX Studio, resulting in 5% performance boost and 20% data-related expense reduction
 
 
